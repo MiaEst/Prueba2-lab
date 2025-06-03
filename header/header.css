@@ -63,8 +63,20 @@
     display: flex;
     align-items: center;
     justify-content: center;
+
+    position: absolute;
+    top: -6px;
 }
 .imgmenu{
-    justify-content: center;
+    align-items: center;
+    position: absolute;
+    padding: 20px;
+}
+.bag{
+    align-items: center;
+    padding: 13px;
+    position: absolute;
+}
+.text{
     
 }

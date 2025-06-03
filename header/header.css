@@ -78,5 +78,226 @@
     position: absolute;
 }
 .text{
-    
+    font-size: medium;
+    padding: 15px;
+
+    font-family: Sen;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-transform: capitalize;
+
+    gap: 5px;
+    display: flex;
+}
+.txt1{
+font-family: Sen;
+font-weight: 700;
+font-size: 16px;
+line-height: 26px;
+letter-spacing: 0px;
+text-transform: capitalize;
+}
+.busqueda{
+    background-color: rgb(211, 209, 211);
+    height: 62px;
+    width: 327px;
+    right: 50px;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    position: relative;
+    left: 5dvh;
+}
+
+.lupita{
+    position: absolute;
+    left: 15px;
+    padding: 23px;
+    color: rgb(116, 116, 116);
+}
+.search{
+font-family: Sen;
+font-weight: 400;
+font-size: 14px;
+line-height: 100%;
+letter-spacing: -0.33px;
+
+color: rgb(66, 63, 63);
+position: absolute;
+position: relative;
+left: 70px;
+}
+.All{
+font-size: medium;
+padding: 25px;
+font-family: Sen;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+text-transform: capitalize;
+
+display: flex;
+gap: 150px;
+}
+.all1{
+font-family: Sen;
+font-weight: 400;
+font-size: 20px;
+line-height: 100%;
+letter-spacing: 0px;
+text-transform: capitalize;
+}
+.all2{
+font-family: Sen;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: -0.33px;
+text-align: center;
+}
+.comida{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.all{
+    width: 103px;
+    height: 60px;
+    top: 303px;
+    left: 24px;
+    border-radius: 39px;
+
+background-color: rgba(255, 210, 124, 1);
+}
+.txtAll{
+position: absolute;
+position: relative;
+right: -70px;
+margin-top: -15px;
+
+font-family: Sen;
+font-weight: 700;
+font-size: 14px;
+line-height: 100%;
+letter-spacing: 0%;
+}
+.img1{
+width: 44px;
+height: 44px;
+top: 311px;
+left: 32px;
+border-radius: 23px;
+display: flex;
+align-items: center;
+margin-left: 25px;
+justify-content: center;
+
+margin-top: 6px;
+}
+.hot-dog{
+width: 135px;
+height: 60px;
+top: 303px;
+left: 134px;
+border-radius: 50px;
+justify-content: space-between;
+
+background-color: rgb(253, 236, 189);
+}
+.img2{
+    width: 44px;
+    height: 44px;
+    top: 311px;
+    left: 32px;
+    border-radius: 23px;
+    display: flex;
+    align-items: center;
+    margin-left: 25px;
+    justify-content: center;
+
+    margin-top: 6px;
+}
+.txtHot{
+position: absolute;
+position: relative;
+right: -70px;
+margin-top: -15px;
+
+font-family: Sen;
+font-weight: 700;
+font-size: 14px;
+line-height: 100%;
+letter-spacing: 0%;
+}
+.burguer{
+width: 135px;
+height: 60px;
+top: 303px;
+left: 282px;
+border-radius: 50px;
+
+background-color: rgb(253, 236, 189);
+}
+.img3{
+    width: 44px;
+    height: 44px;
+    top: 311px;
+    left: 32px;
+    border-radius: 23px;
+    display: flex;
+    align-items: center;
+    margin-left: 25px;
+    justify-content: center;
+
+    margin-top: 6px;
+    left: 5px;
+}
+.t-3{
+position: absolute;
+position: relative;
+right: -70px;
+margin-top: -15px;
+
+font-family: Sen;
+font-weight: 700;
+font-size: 14px;
+line-height: 100%;
+letter-spacing: 0%;
+
+}
+.texto{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 15px;
+}
+.open{
+    font-family: Sen;
+font-weight: 400;
+font-size: 20px;
+line-height: 100%;
+letter-spacing: 0px;
+text-transform: capitalize;
+color: rgba(50, 52, 62, 1);
+}
+.see{
+font-family: Sen;
+font-weight: 400px;
+font-size: 20px;
+line-height: 100%;
+letter-spacing: 0px;
+text-transform: capitalize;
+}
+.rose{
+    padding: 2px;
+    display: flex;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.ult{
+    padding: 2px;
+    display: flex;
+    margin-top: 15px;
+    margin-left: 15px;
 }
